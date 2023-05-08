@@ -1,4 +1,4 @@
-# Fifa_world_cup_Machine_Learning
+# Fifa World Cup Machine Learning
 This project aims to predict the winner of the FIFA World Cup using machine learning algorithms. It utilizes historical team performance and various features to make predictions.
 
 # Dataset
